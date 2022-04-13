@@ -1,2 +1,2 @@
-# web-dev-lab
-first time belajar html 
+# webdev
+latihan belajar web development
